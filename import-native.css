@@ -1,0 +1,16 @@
+/* Generated from Android import_colors.xml. */
+:root {
+  --background: #050A06;
+  --panel: #0B120D;
+  --border: #3C6E45;
+  --text: #BDF5B5;
+  --dim: #74A874;
+  --accent: #5CFF5C;
+  --warning: #FF6E5E;
+  --button: #14281A;
+  --button-pressed: #2E6A3A;
+  --button-border: #4C8F57;
+  --button-text: #CFFFD0;
+  --primary: #3F9A4C;
+  --primary-text: #041006;
+}
