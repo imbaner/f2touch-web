@@ -26,7 +26,7 @@ Early mod support: Fallout Et Tu (Fallout 1), Sonora, Nevada and Resurrection. C
 
 ## Build and license
 
-Version **1.3.0-mobile.8**, build **33e5b2bd**, source commit **2c664cde28cf1d35f75f46982e59c7ceee0c4f1b**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/web-v1.3.0-mobile.8) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/web-v1.3.0-mobile.8/os/web/README.md). This repository contains only the static application build, without game data or saves.
+Version **1.3.0-mobile.8**, build **c5c1d59c**, source commit **7263333e7fe682d109178537418c5746e38c7fc4**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/web-v1.3.0-mobile.8) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/web-v1.3.0-mobile.8/os/web/README.md). This repository contains only the static application build, without game data or saves.
 
 Unofficial fan project. Not affiliated with or endorsed by Microsoft, Bethesda Softworks, ZeniMax Media or Interplay. You need your own copy of the game. Fallout belongs to its respective owners.
 

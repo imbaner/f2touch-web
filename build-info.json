@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "version": "1.3.0-mobile.8",
-  "buildId": "33e5b2bd",
+  "buildId": "c5c1d59c",
   "source": {
-    "commit": "2c664cde28cf1d35f75f46982e59c7ceee0c4f1b",
+    "commit": "7263333e7fe682d109178537418c5746e38c7fc4",
     "dirty": false
   },
   "toolchain": {
@@ -51,11 +51,11 @@
     },
     "fallout2-ce.js": {
       "bytes": 220217,
-      "sha256": "9b3830e2975c861d05a63a14e440307a67e45a5d26e2654709ea72f07472425f"
+      "sha256": "ad7fbca1e994fdb86bd2261eae28c04168eedf7678e1112b5841dd7b1fa6b712"
     },
     "fallout2-ce.wasm": {
-      "bytes": 5291641,
-      "sha256": "3b7aec62557005d9393027fd017646c0ebe83616d4919959af3d3c5452a6f416"
+      "bytes": 5292724,
+      "sha256": "3aee7e8d0902d4666fc01d142564df385561c2f82cc612eeb7a0c2007fce89b5"
     },
     "files-page.js": {
       "bytes": 567,
@@ -227,7 +227,7 @@
     },
     "sw.js": {
       "bytes": 9993,
-      "sha256": "97b5b12bb5c3db5e37f8a1879676c55b0f1b0d2b56f6c9c9153350d029a4c4c6"
+      "sha256": "9b5e16b2a885648e40bc17d794e79db176b0b3d974728fd4cd311a72ff32f366"
     }
   }
 }
