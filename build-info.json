@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "version": "1.3.0-mobile.8",
-  "buildId": "c5c1d59c",
+  "buildId": "39e081af",
   "source": {
-    "commit": "7263333e7fe682d109178537418c5746e38c7fc4",
+    "commit": "0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917",
     "dirty": false
   },
   "toolchain": {
@@ -22,12 +22,12 @@
       "sha256": "0eb67f8ef8705f86b99d47326378590d26a6804b7794a73495a171653369550d"
     },
     "app.css": {
-      "bytes": 5213,
-      "sha256": "fe669d1b6ecc8fe0a5904978deb357ca08993f6d938a7a7a5b9ff38fc539c597"
+      "bytes": 5223,
+      "sha256": "bde363d202dd321eec643a20c7fe3b415c198f631734b85d0685863c58a38255"
     },
     "app.js": {
-      "bytes": 11649,
-      "sha256": "164a791eaa39e0652fca41df776eee693b20aa134af83ad3bb90a730b10636e4"
+      "bytes": 11905,
+      "sha256": "ebf8717c7767c4b0546c72e5d38a12d9b71ae26ec7c02aab83967fb5ebcb9196"
     },
     "audio-worklet.js": {
       "bytes": 1892,
@@ -55,27 +55,27 @@
     },
     "fallout2-ce.wasm": {
       "bytes": 5292724,
-      "sha256": "3aee7e8d0902d4666fc01d142564df385561c2f82cc612eeb7a0c2007fce89b5"
+      "sha256": "e717ab96ff26fc7471127448b924052fdf62869270f24be47adb4d2c87bc904c"
     },
     "files-page.js": {
-      "bytes": 567,
-      "sha256": "306a36b69e0503e80c97e2a3f02a01e625c09a184e72f51a9aa7cc3624e8aaae"
+      "bytes": 817,
+      "sha256": "48ffc021eaec82f725309e4b61b419f1cbf61f049e99b9fe025b5c7ede5c2393"
     },
     "files-view.js": {
-      "bytes": 1811,
-      "sha256": "895e934bec92f1b40a5f2b383c9d06fb63f102acf4d2067869632141fccaa87e"
+      "bytes": 1868,
+      "sha256": "2742baa29bfc575f594b2c72e30ace4baf22edd99d5b5601cec9db4080a9bdfe"
     },
     "files.css": {
-      "bytes": 2674,
-      "sha256": "9e6e3c614227f37eda8fd7d1174931b6c039887decda8d5c5a872cd03c0d28bc"
+      "bytes": 2698,
+      "sha256": "90306ec3f7fba31d7a82b5f9e36c0ffa3a4beacac8444b7e85da1b476d9e53c9"
     },
     "files.html": {
       "bytes": 771,
       "sha256": "6955b1a758ad926eba92b158c858912960180c0a77ac372c4974187ad7f2f016"
     },
     "files.js": {
-      "bytes": 15284,
-      "sha256": "14627d2ceb46a554ebec9775ecb2e3778da744d6e743e463a535cbfa389d387e"
+      "bytes": 15649,
+      "sha256": "733fb1febaa126afe4ca9e51effe8894a98efe22415f4fa536db381669479976"
     },
     "filesystem.js": {
       "bytes": 5092,
@@ -126,12 +126,12 @@
       "sha256": "174f09f6bf0e9a75579d20132eb85e0391c507b1fcf733ed3f42cd52d09be78d"
     },
     "index.html": {
-      "bytes": 4620,
-      "sha256": "6d6d468406d3e6f4f52fbf10b38e6d85e9f4809eb9fcc9b0eb75efeef8d8405a"
+      "bytes": 4678,
+      "sha256": "548873dc2a704c5258c9cb68dc400dde841684efbfbee0790997bc7b40ecbf64"
     },
     "install-hint.js": {
-      "bytes": 729,
-      "sha256": "bcece337b483390297b498b90cb5aa2d80a048bd4acf1d536bdaa2ef9c65f7b3"
+      "bytes": 916,
+      "sha256": "bd0c088e5f00677d0c928e44cd2c7490542e8b4dc13ce4d9f4eaa8a9dc0330e0"
     },
     "licenses/libarchive.txt": {
       "bytes": 3089,
@@ -144,6 +144,14 @@
     "opfs-export.js": {
       "bytes": 3007,
       "sha256": "2561348278ba54e535347e1c2a59a4e895801a9a79763c4e9f27c9c61db46e61"
+    },
+    "privacy-page.js": {
+      "bytes": 1168,
+      "sha256": "d94eb2346bb47462a1996e8774984b32c6b3802af3ed5dbb810366c60e94a2ec"
+    },
+    "privacy.html": {
+      "bytes": 1361,
+      "sha256": "8eae083645699971c96b0c42584885a12a8e8400cf40edce5267bb8f0cca2841"
     },
     "probe-worker.js": {
       "bytes": 4673,
@@ -178,8 +186,8 @@
       "sha256": "2efe88a53e4b52c712a2588567ff5e6d258ee7652b43e36e4f809eec65976ff7"
     },
     "strings.js": {
-      "bytes": 15420,
-      "sha256": "1e3f973b0e1955fe376626ac4b1b28f2593380ee37ba12e8ae69e6114ceb8dfd"
+      "bytes": 18871,
+      "sha256": "bec43e9d94f807ba11d8d7c509d85153f3760aa382a95d82afbfc3a753922a32"
     },
     "user-lazy-filesystem.js": {
       "bytes": 13632,
@@ -209,6 +217,10 @@
       "bytes": 172457,
       "sha256": "d5da4c152c87ce3408d2620137af9eda24c2e35ae2164518b9dcac7df931a3ef"
     },
+    "visits.js": {
+      "bytes": 2779,
+      "sha256": "e4713c693f145d5409b811297d98f261c9d28655a076903183af223e5effc505"
+    },
     "working-files.js": {
       "bytes": 7951,
       "sha256": "02046a40346a7fd14caaba01def8e9e55508fdb5ee7ce731017cf93db2022e41"
@@ -226,8 +238,8 @@
       "sha256": "86abf81a649752e09e10185d58fd9f725254ccd0ed0cbced276c083961a9f929"
     },
     "sw.js": {
-      "bytes": 9993,
-      "sha256": "9b5e16b2a885648e40bc17d794e79db176b0b3d974728fd4cd311a72ff32f366"
+      "bytes": 10311,
+      "sha256": "d7cac855053ed242250ede7c6ce41a89e40cd74fed32791fcb9533a83639df64"
     }
   }
 }

@@ -24,9 +24,15 @@ Early mod support: Fallout Et Tu (Fallout 1), Sonora, Nevada and Resurrection. C
 
 Поддержка Et Tu, Sonora, Nevada и Resurrection ранняя, прохождение без ошибок не гарантируется. Это бета: последняя сборка ещё требует финальной проверки на настоящем iPhone — касания, клавиатура, звук после фона и холодный офлайн-запуск.
 
+## Privacy · Приватность
+
+The game, its files and saves stay in your browser. The site counts anonymous page openings and a few events (game files installed, game started or failed to start) with GoatCounter: no cookies, no identifiers, statistics visible only to the author. Do Not Track and Global Privacy Control are respected; details and an opt-out are on the [Privacy](https://play.f2touch.com/privacy.html) page.
+
+Игра, её файлы и сохранения остаются в браузере. Сайт анонимно считает открытия страниц и несколько событий (файлы игры установлены, игра запущена или не запустилась) через GoatCounter: без cookies и идентификаторов, статистику видит только автор. Do Not Track и Global Privacy Control соблюдаются; подробности и отключение учёта — на странице [«Приватность»](https://play.f2touch.com/privacy.html).
+
 ## Build and license
 
-Version **1.3.0-mobile.8**, build **c5c1d59c**, source commit **7263333e7fe682d109178537418c5746e38c7fc4**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/web-v1.3.0-mobile.8) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/web-v1.3.0-mobile.8/os/web/README.md). This repository contains only the static application build, without game data or saves.
+Version **1.3.0-mobile.8**, build **39e081af**, source commit **0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917/os/web/README.md). This repository contains only the static application build, without game data or saves.
 
 Unofficial fan project. Not affiliated with or endorsed by Microsoft, Bethesda Softworks, ZeniMax Media or Interplay. You need your own copy of the game. Fallout belongs to its respective owners.
 
