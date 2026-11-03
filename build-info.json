@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.3.0-mobile.8",
-  "buildId": "39e081af",
+  "version": "1.3.0-mobile.9",
+  "buildId": "0903a2ec",
   "source": {
-    "commit": "0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917",
+    "commit": "b0460ecea54ad1a542531e82ffcbb47a73fe99e8",
     "dirty": false
   },
   "toolchain": {
@@ -22,12 +22,12 @@
       "sha256": "0eb67f8ef8705f86b99d47326378590d26a6804b7794a73495a171653369550d"
     },
     "app.css": {
-      "bytes": 5223,
-      "sha256": "bde363d202dd321eec643a20c7fe3b415c198f631734b85d0685863c58a38255"
+      "bytes": 6482,
+      "sha256": "e8b82ff68738fedf9474bd3c1b5e28517f95486cad1d1dd485a5b908cc2c8d41"
     },
     "app.js": {
-      "bytes": 11905,
-      "sha256": "ebf8717c7767c4b0546c72e5d38a12d9b71ae26ec7c02aab83967fb5ebcb9196"
+      "bytes": 15600,
+      "sha256": "ff6529a18c322884560e5bc4eaba0b495ffa501c3e7cae686f0ca6d3bb7b4ad8"
     },
     "audio-worklet.js": {
       "bytes": 1892,
@@ -38,8 +38,8 @@
       "sha256": "89e63316669ae942d37227f60125c2c6e8966693ab31b9a44419e5677f9ed2b7"
     },
     "ce.dat": {
-      "bytes": 433343,
-      "sha256": "926168e6720367efa7c546bf97e4ba83e29e813aee698802db1800f7a8f5d930"
+      "bytes": 434586,
+      "sha256": "11d9203e42277d9da93b03d7968f2e3d6d7d70e7f203b3206adc1de2c0572b2c"
     },
     "fallout2-archive.js": {
       "bytes": 24359,
@@ -50,12 +50,12 @@
       "sha256": "066a5f9687c002a5e891646239407069d68d540f71cdf8324f08e8a8e2dee481"
     },
     "fallout2-ce.js": {
-      "bytes": 220217,
-      "sha256": "ad7fbca1e994fdb86bd2261eae28c04168eedf7678e1112b5841dd7b1fa6b712"
+      "bytes": 221492,
+      "sha256": "24d80126cbd0370184c02faa573869bdd735503ab78eff39e590c947c7d4144a"
     },
     "fallout2-ce.wasm": {
-      "bytes": 5292724,
-      "sha256": "e717ab96ff26fc7471127448b924052fdf62869270f24be47adb4d2c87bc904c"
+      "bytes": 5383482,
+      "sha256": "0bb56270963c912adf0c61ce674a25a44ca16a30b40850aa1127f73688f93d3a"
     },
     "files-page.js": {
       "bytes": 817,
@@ -126,8 +126,8 @@
       "sha256": "174f09f6bf0e9a75579d20132eb85e0391c507b1fcf733ed3f42cd52d09be78d"
     },
     "index.html": {
-      "bytes": 4678,
-      "sha256": "548873dc2a704c5258c9cb68dc400dde841684efbfbee0790997bc7b40ecbf64"
+      "bytes": 4757,
+      "sha256": "019aaabf7ed4d4f8c1b3add3bc92bde49e2054ad49d8aa9c9dc700bbaefa85ce"
     },
     "install-hint.js": {
       "bytes": 916,
@@ -156,6 +156,10 @@
     "probe-worker.js": {
       "bytes": 4673,
       "sha256": "db5ddf3b75509baf20b963e6b66240e42e53892ecf91fc7531dbb711f3182420"
+    },
+    "problem-view.js": {
+      "bytes": 4790,
+      "sha256": "b2b3e3ed53b3547c2726c33f8585ca617d5d965bf893a23112c32571bcb166dd"
     },
     "resource-store.js": {
       "bytes": 18475,
@@ -238,8 +242,8 @@
       "sha256": "86abf81a649752e09e10185d58fd9f725254ccd0ed0cbced276c083961a9f929"
     },
     "sw.js": {
-      "bytes": 10311,
-      "sha256": "d7cac855053ed242250ede7c6ce41a89e40cd74fed32791fcb9533a83639df64"
+      "bytes": 10420,
+      "sha256": "6bdc5e87b6b65cf3774dd4e18d70bf8f970914faff7ed9b4576596aad412cc2c"
     }
   }
 }
