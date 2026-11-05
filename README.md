@@ -32,7 +32,7 @@ The game, its files and saves stay in your browser. The site counts anonymous pa
 
 ## Build and license
 
-Version **1.3.0-mobile.8**, build **39e081af**, source commit **0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917/os/web/README.md). This repository contains only the static application build, without game data or saves.
+Version **1.3.0-mobile.10**, build **2118896e**, source commit **5bee12114947eb78250d189af643a9546145f019**. [Matching source](https://github.com/imbaner/fallout2-ce-mobile/tree/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917) · [Build instructions](https://github.com/imbaner/fallout2-ce-mobile/blob/0fdea9cee4ae5d6e79ae915d8b8aa7665c99a917/os/web/README.md). This repository contains only the static application build, without game data or saves.
 
 Unofficial fan project. Not affiliated with or endorsed by Microsoft, Bethesda Softworks, ZeniMax Media or Interplay. You need your own copy of the game. Fallout belongs to its respective owners.
 
